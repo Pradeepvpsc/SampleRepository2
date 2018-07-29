@@ -1,4 +1,4 @@
-Feature: DATAX Shipment company
+Feature: DATAX Shipment company TEST
 
 	Scenario: To validate the result
 	Given loadURL
